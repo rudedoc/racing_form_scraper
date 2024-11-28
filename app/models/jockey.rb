@@ -1,0 +1,2 @@
+class Jockey < ApplicationRecord
+end
