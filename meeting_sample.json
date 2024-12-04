@@ -1,0 +1,3305 @@
+{
+  "id": 108671,
+  "name": "Hereford",
+  "country_name": "England",
+  "going": "Good to Soft (Soft in places)",
+  "weather": "Light Rain Showers",
+  "surface_summary": "Turf",
+  "date": "2024-11-27",
+  "races": [
+    {
+      "id": 831595,
+      "name": "Brightwells Ltd Novices' Hurdle (GBB Race)",
+      "age": "4YO plus",
+      "race_class": "4",
+      "distance": "2m 3f 147y",
+      "date": "2024-11-27",
+      "time": "12:15",
+      "off_time": "12:16:04",
+      "winning_time": "4m 59.63s",
+      "ride_count": 11,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": false,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346486,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Prominent, pushed along in close 3rd on outer after 2 out, ridden and stayed on well run-in, led on post",
+          "commentary": "Promising individual who came in second of 5 in novice hurdle at Plumpton (20.5f, good to soft, 10/3) on hurdles bow 23 days ago. Should progress. Well in the mix. ",
+          "betting": [
+            "10/3",
+            "7/2",
+            "10/3",
+            "3/1",
+            "11/4",
+            "5/2"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1127231,
+            "name": "Just Lucky Sivola",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 711,
+            "name": "H Cobden"
+          },
+          "trainer": {
+            "id": 115,
+            "name": "P F Nicholls",
+            "created_at": "2024-11-27T16:00:08.109Z",
+            "updated_at": "2024-11-27T16:00:08.111Z"
+          },
+          "owner": {
+            "id": 1469,
+            "name": "Mrs L Maclennan"
+          }
+        },
+        {
+          "id": 195346498,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Led narrowly, headed after 4th, tracked leader, led again next, pushed along home turn, ridden and faced challenged on run-in, kept on, headed post",
+          "commentary": "Useful winner at 18f in bumpers. 4/1, encouraging third of 11 in novice hurdle at Exeter (18.5f, good to soft) on hurdles bow 36 days ago. Should improve.",
+          "betting": [
+            "5/2",
+            "9/4",
+            "5/2",
+            "9/4"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 5,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 4,
+          "horse": {
+            "id": 1133394,
+            "name": "Tom Doniphon",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 722,
+            "name": "Sean Houlihan"
+          },
+          "trainer": {
+            "id": 119,
+            "name": "P Hobbs \u0026 J White",
+            "created_at": "2024-11-27T15:53:20.341Z",
+            "updated_at": "2024-11-27T15:53:20.384Z"
+          },
+          "owner": {
+            "id": 1208,
+            "name": "Gwent Holdings Limited"
+          }
+        },
+        {
+          "id": 195346480,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "11-7",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 117,
+          "jockey_claim": 3.0,
+          "ride_description": "Chased leaders, pushed along in close 2nd after 2 out, no telling impression when mistake and blundered last",
+          "commentary": "Fairly useful winner at Worcester in July and in very good form since, second of 13 in novice hurdle at Wetherby (19.7f, good to soft) 42 days ago, going with enthusiasm. Leading form claims.",
+          "betting": [
+            "2/1",
+            "9/4",
+            "5/2"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 8,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 6,
+          "horse": {
+            "id": 1124471,
+            "name": "Ebony Warrior",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 712,
+            "name": "Nick Slatter"
+          },
+          "trainer": {
+            "id": 168,
+            "name": "D Killahena \u0026 G McPherson",
+            "created_at": "2024-11-27T16:00:06.464Z",
+            "updated_at": "2024-11-27T16:00:06.466Z"
+          },
+          "owner": {
+            "id": 1470,
+            "name": "Dl Adams, Ja Adams \u0026 G McPherson"
+          }
+        },
+        {
+          "id": 195346485,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, slow jump and pushed along 4 out, kept on under pressure until weakened 2 out",
+          "commentary": "Twice-raced maiden under NH rules. 200/1, eighth of 10 in novice hurdle at Ffos Las (21.9f, soft) on hurdles bow 45 days ago.",
+          "betting": [],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 3,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1146787,
+            "name": "Jaunty Galaxy",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 742,
+            "name": "Conor Ring"
+          },
+          "trainer": {
+            "id": 2162,
+            "name": "B Eckley",
+            "created_at": "2024-11-27T16:00:36.602Z",
+            "updated_at": "2024-11-27T16:00:36.604Z"
+          },
+          "owner": {
+            "id": 1471,
+            "name": "Mr Brian Eckley"
+          }
+        },
+        {
+          "id": 195346497,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": 3.0,
+          "ride_description": "Mid-division, pushed along after 3 out, soon beaten",
+          "commentary": "Twice-raced maiden under NH rules, better effort when third of 6 in novice hurdle (7/2) at this C\u0026D (good) on hurdles bow 23 days ago. Can take another step forward. ",
+          "betting": [
+            "50/1",
+            "40/1",
+            "50/1",
+            "40/1",
+            "50/1"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 3,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1117480,
+            "name": "Tikiti Dino",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 25653,
+            "name": "Phillip Armson"
+          },
+          "trainer": {
+            "id": 111,
+            "name": "A King",
+            "created_at": "2024-11-27T16:00:00.527Z",
+            "updated_at": "2024-11-27T16:00:00.529Z"
+          },
+          "owner": {
+            "id": 994,
+            "name": "Mr Alan King"
+          }
+        },
+        {
+          "id": 195346481,
+          "finish_position": 7,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, not fluent 1st, lost touch 4 out, tailed off",
+          "commentary": "Twice-raced maiden under NH rules. Seventh of 14 in novice hurdle (150/1) at Fontwell (17.7f, good to soft) on hurdles bow 19 days ago, not knocked about. May still do better.",
+          "betting": [
+            "200/1",
+            "150/1"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 3,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1138074,
+            "name": "Falstaff",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 736,
+            "name": "Brendan Powell"
+          },
+          "trainer": {
+            "id": 6274,
+            "name": "Miss H C Knight",
+            "created_at": "2024-11-27T16:00:09.444Z",
+            "updated_at": "2024-11-27T16:00:09.447Z"
+          },
+          "owner": {
+            "id": 1472,
+            "name": "W G \u0026 A G Vestey"
+          }
+        },
+        {
+          "id": 195346479,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-7",
+          "headgear": [
+            "Blinkers"
+          ],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Mid-division on outer, mistake 1st, awkward and unseated rider 5th",
+          "commentary": "Fair form in bumpers, fifth of 7 at Uttoxeter (15.8f, soft) 165 days ago. Makes hurdles debut up in trip. Blinkered for 1st time too.",
+          "betting": [
+            "80/1",
+            "66/1"
+          ],
+          "race_id": 831595,
+          "casualty": "UnseatedRider",
+          "insights": [
+            "FIRST_TIME_BLINKERS"
+          ],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1137389,
+            "name": "Damzon",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 837,
+            "name": "Benjamin Poste"
+          },
+          "trainer": {
+            "id": 2156,
+            "name": "H J Evans",
+            "created_at": "2024-11-27T16:00:02.542Z",
+            "updated_at": "2024-11-27T16:00:02.545Z"
+          },
+          "owner": {
+            "id": 1473,
+            "name": "Derek \u0026 Cheryl Holder"
+          }
+        },
+        {
+          "id": 195346484,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, pushed along and struggling 6th, pulled up before 2 out",
+          "commentary": "Pulled up in novice hurdle at Newton Abbot (21.6f, heavy, 125/1) on NH debut. Off 14 months.",
+          "betting": [
+            "250/1",
+            "300/1",
+            "250/1",
+            "300/1",
+            "400/1",
+            "500/1",
+            "400/1",
+            "500/1"
+          ],
+          "race_id": 831595,
+          "casualty": "PulledUp",
+          "insights": [
+            "WIND_SURGERY_SINCE_LAST_RUN"
+          ],
+          "horse_lifetime_stats_run_count": 2,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1119151,
+            "name": "Hugo Alko",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 927,
+            "name": "Paul O'Brien"
+          },
+          "trainer": {
+            "id": 2719,
+            "name": "Mrs H R J Nelmes",
+            "created_at": "2024-11-27T16:00:36.630Z",
+            "updated_at": "2024-11-27T16:00:36.632Z"
+          },
+          "owner": {
+            "id": 1474,
+            "name": "Matt Hoskins \u0026 Julie Roche"
+          }
+        },
+        {
+          "id": 195346492,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [
+            "Hood"
+          ],
+          "official_rating": null,
+          "jockey_claim": 5.0,
+          "ride_description": "In rear, lost touch 4th, pulled up 6th",
+          "commentary": "£25,000 3-y-o: second foal: dam, fair maiden hurdler, is a half-sister to fairly useful hurdle winner/very smart chaser who became temperamental Herecomesthetruth. Presenting gelding can't be discounted on his hurdling bow. ",
+          "betting": [
+            "66/1",
+            "80/1",
+            "100/1",
+            "80/1",
+            "100/1",
+            "80/1",
+            "100/1",
+            "80/1",
+            "100/1",
+            "80/1",
+            "100/1"
+          ],
+          "race_id": 831595,
+          "casualty": "PulledUp",
+          "insights": [
+            "FIRST_TIME_HOOD"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1167025,
+            "name": "Presenting Star",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 30598,
+            "name": "Shane Fenelon"
+          },
+          "trainer": {
+            "id": 135,
+            "name": "P \u0026 M Bowen",
+            "created_at": "2024-11-27T16:00:01.623Z",
+            "updated_at": "2024-11-27T16:00:01.626Z"
+          },
+          "owner": {
+            "id": 1475,
+            "name": "Mrs G Davies"
+          }
+        },
+        {
+          "id": 195346488,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": 3.0,
+          "ride_description": "Handy, led after 4th, jumped badly left next and headed, raced wide in touch and hung markedly left, ran out 2 out",
+          "commentary": "Authorized gelding. Dam, 17f hurdle winner in France, sister to fairly useful hurdler/useful chaser (stayed 29f) Baie des Iles. Worth a market check. ",
+          "betting": [
+            "5/2",
+            "11/4",
+            "3/1",
+            "11/4",
+            "3/1",
+            "16/5",
+            "10/3"
+          ],
+          "race_id": 831595,
+          "casualty": "RanOut",
+          "insights": [
+            "HOT_TRAINER"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1163078,
+            "name": "Knead A Win",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 29330,
+            "name": "Dylan Johnston"
+          },
+          "trainer": {
+            "id": 943,
+            "name": "S Thomas",
+            "created_at": "2024-11-27T16:00:01.711Z",
+            "updated_at": "2024-11-27T16:00:01.713Z"
+          },
+          "owner": {
+            "id": 59,
+            "name": "Walters Plant Hire Ltd"
+          }
+        },
+        {
+          "id": 195346499,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Chased leaders, mid-division after 3rd, not fluent next, lost position and ridden 2 out, tailed off quickly",
+          "commentary": "Thrice-raced maiden under NH rules. 125/1, sixth of 10 in novice hurdle at Ffos Las (15.8f, good to soft) 17 days ago. Back up in trip with more required. ",
+          "betting": [
+            "250/1",
+            "200/1",
+            "150/1"
+          ],
+          "race_id": 831595,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1132532,
+            "name": "Tom Taggle",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 744,
+            "name": "C M Marles Partnership"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831596,
+      "name": "Wye Valley Metals Novices' Handicap Chase",
+      "age": "4YO plus",
+      "race_class": "5",
+      "distance": "2m 8y",
+      "date": "2024-11-27",
+      "time": "12:50",
+      "off_time": "12:50:24",
+      "winning_time": "4m 8.51s",
+      "ride_count": 8,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": true,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346508,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "12-1",
+          "headgear": [],
+          "official_rating": 92,
+          "jockey_claim": null,
+          "ride_description": "Wore red hood to post, close up, led before 2 out, pushed along home turn, ridden run-in, stayed on well, always doing enough",
+          "commentary": "Advanced his form under a change of tactics when landing 8-runner handicap chase at Warwick (16.2f, soft) 7 days ago, making all. The one to beat under a 7 lb penalty. ",
+          "betting": [
+            "11/8",
+            "5/4",
+            "6/5",
+            "5/4",
+            "6/5",
+            "5/4",
+            "6/5",
+            "5/4"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [
+            "AHEAD_OF_THE_HANDICAPPER"
+          ],
+          "horse_lifetime_stats_run_count": 8,
+          "horse_lifetime_stats_win_count": 3,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1131395,
+            "name": "Paddy In The Caddy",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 722,
+            "name": "Sean Houlihan"
+          },
+          "trainer": {
+            "id": 119,
+            "name": "P Hobbs \u0026 J White",
+            "created_at": "2024-11-27T15:53:20.341Z",
+            "updated_at": "2024-11-27T15:53:20.384Z"
+          },
+          "owner": {
+            "id": 28,
+            "name": "Mrs Joanna Peppiatt"
+          }
+        },
+        {
+          "id": 195346503,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-10",
+          "headgear": [
+            "Hood",
+            "Tongue strap"
+          ],
+          "official_rating": 94,
+          "jockey_claim": 5.0,
+          "ride_description": "Led narrowly, jumped left throughout, not fluent 3rd, headed before 2 out, pushed along home turn and kept on, no extra run-in, awkward towards finish",
+          "commentary": "It's now 13 runs since his last win in 2022 but he shaped well for his new yard after 4 months off (formerly with Gary \u0026 Josh Moore) when a fading sixth of 8 in handicap chase at Fontwell (19.5f, good) 64 days ago. In the mix with hood/tongue strap back on.",
+          "betting": [
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [
+            "FIRST_TIME_TONGUE_STRAP"
+          ],
+          "horse_lifetime_stats_run_count": 16,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1021474,
+            "name": "Flamelco",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 30496,
+            "name": "Jay Tidball"
+          },
+          "trainer": {
+            "id": 149,
+            "name": "Mrs S J Humphrey",
+            "created_at": "2024-11-27T16:00:23.069Z",
+            "updated_at": "2024-11-27T16:00:23.071Z"
+          },
+          "owner": {
+            "id": 1476,
+            "name": "Yen Hall Farm Racing"
+          }
+        },
+        {
+          "id": 195346510,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 83,
+          "jockey_claim": null,
+          "ride_description": "Chased leaders, pushed along after 2 out, stayed on one pace, never threatened",
+          "commentary": "Yet to register a victory but he recorded a respectable third of 13 in handicap hurdle at Ffos Las (15.8f, good to soft) in May. Resumes for his first go over fences and can't be discounted. ",
+          "betting": [
+            "11/2",
+            "6/1",
+            "11/2"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 11,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 4,
+          "horse": {
+            "id": 1084574,
+            "name": "Smart Casual",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 730,
+            "name": "R P McLernon"
+          },
+          "trainer": {
+            "id": 131,
+            "name": "A J Honeyball",
+            "created_at": "2024-11-27T16:00:16.500Z",
+            "updated_at": "2024-11-27T16:00:16.501Z"
+          },
+          "owner": {
+            "id": 1,
+            "name": "Mr John P McManus"
+          }
+        },
+        {
+          "id": 195346505,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "12-0",
+          "headgear": [
+            "Cheek pieces"
+          ],
+          "official_rating": 98,
+          "jockey_claim": 7.0,
+          "ride_description": "Tracked leaders, pushed along after 3 out, lost position 2 out, plugged on one pace",
+          "commentary": "Scored on his chasing bow at Ludlow but only seventh of 10 in handicap chase at Bangor (20.3f, heavy) next time. Cheekpieces back on.",
+          "betting": [
+            "6/1",
+            "11/2",
+            "5/1"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 13,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1077883,
+            "name": "Iron D'ex",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 32613,
+            "name": "Callum Pritchard"
+          },
+          "trainer": {
+            "id": 2360,
+            "name": "Sheila Lewis",
+            "created_at": "2024-11-27T16:00:16.869Z",
+            "updated_at": "2024-11-27T16:00:16.871Z"
+          },
+          "owner": {
+            "id": 1281,
+            "name": "Mr Graham Wilson"
+          }
+        },
+        {
+          "id": 195346502,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "11-9",
+          "headgear": [
+            "Hood"
+          ],
+          "official_rating": 93,
+          "jockey_claim": 3.0,
+          "ride_description": "Chased leaders, bad mistake 2nd, ridden 2 out, faded",
+          "commentary": "Remains winless but he posted a creditable third of 7 in handicap chase at Ludlow (16f, good to soft) 20 days ago. Needs considering. ",
+          "betting": [
+            "11/1",
+            "12/1",
+            "11/1",
+            "12/1",
+            "12/1",
+            "11/1"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 13,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 2,
+          "horse": {
+            "id": 1084326,
+            "name": "Dunstall Rambler",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 31027,
+            "name": "Jack Hogan"
+          },
+          "trainer": {
+            "id": 326,
+            "name": "T R George",
+            "created_at": "2024-11-27T16:00:17.030Z",
+            "updated_at": "2024-11-27T16:00:17.031Z"
+          },
+          "owner": {
+            "id": 1477,
+            "name": "Mr Simon W Clarke"
+          }
+        },
+        {
+          "id": 195346511,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "10-3",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 73,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, mistake 4th, reminders after 7th and lost ground, lost touch before 3 out, tailed off next",
+          "commentary": "Failed to build on his chasing debut promise when tenth of 12 in handicap chase over C\u0026D 23 days ago. Still low mileage so may still do better. ",
+          "betting": [
+            "9/1",
+            "10/1",
+            "9/1",
+            "17/2",
+            "9/1",
+            "17/2",
+            "9/1",
+            "10/1",
+            "9/1",
+            "10/1",
+            "11/1",
+            "12/1",
+            "14/1",
+            "12/1"
+          ],
+          "race_id": 831596,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 8,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1124477,
+            "name": "The Big Man",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 89,
+            "name": "Mario Stavrou Racing"
+          }
+        },
+        {
+          "id": 195346501,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": 84,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, not fluent 6th, pushed along 2 out, never on terms and fell last",
+          "commentary": "Arrives in good nick over hurdles, third of 6 in 2m handicap here 15 days ago. Much respected on his chase debut. ",
+          "betting": [
+            "12/1",
+            "14/1",
+            "12/1",
+            "14/1",
+            "12/1",
+            "14/1",
+            "12/1",
+            "14/1",
+            "12/1",
+            "14/1",
+            "16/1",
+            "14/1",
+            "16/1",
+            "14/1",
+            "16/1",
+            "14/1"
+          ],
+          "race_id": 831596,
+          "casualty": "Fell",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 69,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 19,
+          "horse": {
+            "id": 901859,
+            "name": "Coup De Gold",
+            "age": 8,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 742,
+            "name": "Conor Ring"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 360,
+            "name": "Mrs C Williams"
+          }
+        },
+        {
+          "id": 195346512,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-8",
+          "headgear": [],
+          "official_rating": 78,
+          "jockey_claim": null,
+          "ride_description": "In rear, reminders 1st, never travelling, jumped poorly, pulled up after 2 out",
+          "commentary": "Took form up a notch when getting off the mark on fencing bow in 12-runner handicap chase at Exeter (17.5f, good to soft) 36 days ago. Well on top at the finish there so not taken lightly despite a 4 lb rise. ",
+          "betting": [
+            "17/2",
+            "9/1",
+            "17/2",
+            "8/1",
+            "17/2",
+            "8/1",
+            "15/2",
+            "8/1"
+          ],
+          "race_id": 831596,
+          "casualty": "PulledUp",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 16,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 2,
+          "horse": {
+            "id": 1057955,
+            "name": "Wellwillya",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 1442,
+            "name": "Lorcan Murtagh"
+          },
+          "trainer": {
+            "id": 2719,
+            "name": "Mrs H R J Nelmes",
+            "created_at": "2024-11-27T16:00:36.630Z",
+            "updated_at": "2024-11-27T16:00:36.632Z"
+          },
+          "owner": {
+            "id": 1478,
+            "name": "Mr L J Burden"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831597,
+      "name": "Layton Family Novices' Hurdle (GBB Race)",
+      "age": "4YO plus",
+      "race_class": "4",
+      "distance": "2m 53y",
+      "date": "2024-11-27",
+      "time": "13:25",
+      "off_time": "13:26:05",
+      "winning_time": "4m 3.71s",
+      "ride_count": 6,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": false,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346523,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "11-7",
+          "headgear": [],
+          "official_rating": 119,
+          "jockey_claim": null,
+          "ride_description": "Made all, raced keenly early, drew away in canter after 2 out, easily",
+          "commentary": "Made it third time lucky over hurdles when making all at Uttoxeter last month. Found out under a penalty but still emerged with credit when third of 14 in novice at Stratford (16.3f, good to soft) just under 4 weeks ago and fancied to be bang there once again. ",
+          "betting": [
+            "1/5",
+            "2/9",
+            "1/5",
+            "2/9",
+            "1/4",
+            "2/7",
+            "1/3",
+            "2/7",
+            "1/4",
+            "2/9",
+            "1/4",
+            "2/9",
+            "1/4",
+            "2/9",
+            "1/4"
+          ],
+          "race_id": 831597,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 7,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1121835,
+            "name": "Nowmelad",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 1438,
+            "name": "Lee Edwards"
+          },
+          "trainer": {
+            "id": 36045,
+            "name": "Dr R Newland \u0026 J Insole",
+            "created_at": "2024-11-27T16:00:01.374Z",
+            "updated_at": "2024-11-27T16:00:01.416Z"
+          },
+          "owner": {
+            "id": 1479,
+            "name": "Mr Peter Green"
+          }
+        },
+        {
+          "id": 195346522,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Held up in rear, closer 4 out, went 3rd 3 out, chased clear leader after 2 out, no impression, stayed on one pace",
+          "commentary": "Fairly useful bumper winner who arrives fit from a good fourth at Cheltenham (16.4f, good) last month, ridden too far back to make much impact. One to consider on hurdle debut. ",
+          "betting": [
+            "4/1",
+            "7/2",
+            "4/1",
+            "7/2",
+            "10/3"
+          ],
+          "race_id": 831597,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1140560,
+            "name": "Not So Sobers",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 730,
+            "name": "R P McLernon"
+          },
+          "trainer": {
+            "id": 168,
+            "name": "D Killahena \u0026 G McPherson",
+            "created_at": "2024-11-27T16:00:06.464Z",
+            "updated_at": "2024-11-27T16:00:06.466Z"
+          },
+          "owner": {
+            "id": 232,
+            "name": "The Ppp Syndicate"
+          }
+        },
+        {
+          "id": 195346529,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Tracked leader, pushed along and lost position after 2 out, plugged on same pace",
+          "commentary": "€55,000 3-y-o, Walk In The Park gelding. Dam, unraced, half-sister to fairly useful hurdler/useful chaser (stayed 3m) Tweed Skirt out of useful 2m-2¼m hurdle winner Theatre Girl. Off mark in Irish points at seventh attempt (Oct 27).",
+          "betting": [
+            "28/1",
+            "22/1",
+            "25/1",
+            "28/1",
+            "25/1"
+          ],
+          "race_id": 831597,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1166710,
+            "name": "Wild Nephin",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 742,
+            "name": "Conor Ring"
+          },
+          "trainer": {
+            "id": 30201,
+            "name": "R Potter",
+            "created_at": "2024-11-27T16:00:33.322Z",
+            "updated_at": "2024-11-27T16:00:33.323Z"
+          },
+          "owner": {
+            "id": 1480,
+            "name": "K P Marsh Plastering \u0026 Interiors Ltd"
+          }
+        },
+        {
+          "id": 195346514,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, awkward 2nd, tailed off 3 out, pulled up after next",
+          "commentary": "Bought out of Tjade Collier's yard for just £3,000 and made a winning start in a Ludlow bumper (15.8f, soft) in October 2023. Safely held on hurdles debut at Kempton the following month, though, and it's easy enough to look elsewhere having not been seen since.",
+          "betting": [
+            "33/1",
+            "28/1",
+            "33/1",
+            "25/1"
+          ],
+          "race_id": 831597,
+          "casualty": "PulledUp",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1105866,
+            "name": "Bobby's Fortune",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 1481,
+            "name": "Six Franks Racing"
+          }
+        },
+        {
+          "id": 195346521,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "€75,000 3-y-o, Flemensfirth gelding. Half-brother to 3 winners, including smart hurdler/high-class chaser Fury Road and unbeaten bumper winner/useful hurdler Monbeg Worldwide, stayed 3m. Won sole start in Irish points (Mar 2024). Likely type for an excellent yard. ",
+          "betting": [],
+          "race_id": 831597,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": null,
+          "horse_lifetime_stats_win_count": null,
+          "horse_lifetime_stats_place_count": null,
+          "horse": {
+            "id": 1167024,
+            "name": "Mossy Fen Road",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 927,
+            "name": "Paul O'Brien"
+          },
+          "trainer": {
+            "id": 33672,
+            "name": "Harry Derham",
+            "created_at": "2024-11-27T16:00:08.254Z",
+            "updated_at": "2024-11-27T16:00:08.255Z"
+          },
+          "owner": {
+            "id": 162,
+            "name": "Barratt Racing"
+          }
+        },
+        {
+          "id": 195346517,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-7",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Wore red hood to post, mid-division, dropped away quickly 3 out, pulled up after next",
+          "commentary": "Jack Hobbs filly. Dam, placed over hurdles, out of useful winner over hurdles/fences up to 2¾m Easter Legend.",
+          "betting": [
+            "100/1",
+            "80/1",
+            "100/1",
+            "125/1",
+            "100/1",
+            "125/1",
+            "125/1",
+            "150/1",
+            "125/1"
+          ],
+          "race_id": 831597,
+          "casualty": "PulledUp",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1166711,
+            "name": "Indian Easter",
+            "age": 4,
+            "foaled": null,
+            "sex": "f"
+          },
+          "jockey": {
+            "id": 837,
+            "name": "Benjamin Poste"
+          },
+          "trainer": {
+            "id": 30201,
+            "name": "R Potter",
+            "created_at": "2024-11-27T16:00:33.322Z",
+            "updated_at": "2024-11-27T16:00:33.323Z"
+          },
+          "owner": {
+            "id": 1482,
+            "name": "Mr \u0026 Mrs S C Willes"
+          }
+        },
+        {
+          "id": 195346524,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-0",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Chased leaders, not fluent 4 out, ridden 2 out and soon held, fell last",
+          "commentary": "£38,000 3-y-o, Linda's Lad gelding. Dam (h112), bumper/2¾m hurdle winner, half-sister to fairly useful hurdler/useful chaser (winner around 2¼m in France) Dourakine. Certainly worth a second look on debut. ",
+          "betting": [
+            "33/1",
+            "40/1",
+            "33/1",
+            "40/1",
+            "33/1",
+            "40/1",
+            "33/1",
+            "40/1",
+            "33/1",
+            "28/1",
+            "33/1"
+          ],
+          "race_id": 831597,
+          "casualty": "Fell",
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1166681,
+            "name": "On The Go",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 714,
+            "name": "David Bass"
+          },
+          "trainer": {
+            "id": 429,
+            "name": "C E Longsdon",
+            "created_at": "2024-11-27T16:00:03.122Z",
+            "updated_at": "2024-11-27T16:00:03.137Z"
+          },
+          "owner": {
+            "id": 1483,
+            "name": "Mrs Susan Monkland \u0026 Dr A Fowlie"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831598,
+      "name": "Alpha Aggregates Handicap Chase",
+      "age": "4YO plus",
+      "race_class": "4",
+      "distance": "3m 1f 44y",
+      "date": "2024-11-27",
+      "time": "14:00",
+      "off_time": "14:00:50",
+      "winning_time": "6m 39.93s",
+      "ride_count": 10,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": true,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346537,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "10-11",
+          "headgear": [],
+          "official_rating": 93,
+          "jockey_claim": null,
+          "ride_description": "Front mid-division, went 3rd at 8th, pushed along after 3 out, weakened 2 out",
+          "commentary": "Running respectably in the summer without shaping like he's ahead of his mark, though might have needed the run on second start over fences at Stratford last month.",
+          "betting": [
+            "9/1",
+            "17/2",
+            "9/1",
+            "10/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 11,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1090302,
+            "name": "Kapamazov",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 837,
+            "name": "Benjamin Poste"
+          },
+          "trainer": {
+            "id": 2156,
+            "name": "H J Evans",
+            "created_at": "2024-11-27T16:00:02.542Z",
+            "updated_at": "2024-11-27T16:00:02.545Z"
+          },
+          "owner": {
+            "id": 1487,
+            "name": "Court Reclamation \u0026 Salvage Ltd"
+          }
+        },
+        {
+          "id": 195346533,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "11-12",
+          "headgear": [],
+          "official_rating": 108,
+          "jockey_claim": 3.0,
+          "ride_description": "Prominent, ridden after 3 out, went 2nd after 2 out, pressed leader approaching last, ridden run-in and stayed on well towards finish to lead final strides (2 fences on side of course after winning line omitted both circuits)",
+          "commentary": "Placed on only start in points and off the mark over hurdles at Hereford in May. However, let down by jumping both starts over fences this term. ",
+          "betting": [
+            "22/1",
+            "25/1",
+            "22/1",
+            "25/1",
+            "22/1",
+            "20/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 11,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1123936,
+            "name": "Face D'music",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 1727,
+            "name": "Shane Quinlan"
+          },
+          "trainer": {
+            "id": 2160,
+            "name": "Katy Price",
+            "created_at": "2024-11-27T16:00:17.516Z",
+            "updated_at": "2024-11-27T16:00:17.518Z"
+          },
+          "owner": {
+            "id": 1286,
+            "name": "Opd Group Limited"
+          }
+        },
+        {
+          "id": 195346535,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-7",
+          "headgear": [],
+          "official_rating": 103,
+          "jockey_claim": null,
+          "ride_description": "Held up in rear, mid-division at 10th, went 4th before 14th, pressed leader 3 out, led 2 out going best, challenged approaching last, ridden run-in, kept on, headed final strides",
+          "commentary": "Irish point winner who has left her hurdles exploits well behind sent chasing last month, completing a quickfire hat-trick at Stratford with a bit in hand. Further 7 lb rise is fair enough and she's the one to beat again.",
+          "betting": [
+            "7/2",
+            "4/1",
+            "7/2"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 10,
+          "horse_lifetime_stats_win_count": 3,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1124467,
+            "name": "Harrys Hope",
+            "age": 6,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 24602,
+            "name": "Ben Jones"
+          },
+          "trainer": {
+            "id": 133,
+            "name": "B Pauling",
+            "created_at": "2024-11-27T16:00:00.722Z",
+            "updated_at": "2024-11-27T16:00:00.723Z"
+          },
+          "owner": {
+            "id": 1484,
+            "name": "The Jp Girls"
+          }
+        },
+        {
+          "id": 195346543,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "11-9",
+          "headgear": [
+            "Tongue strap",
+            "Visor"
+          ],
+          "official_rating": 105,
+          "jockey_claim": null,
+          "ride_description": "Led, faced challenge 3 out, headed 2 out and ridden, kept on one pace before last",
+          "commentary": "Won C\u0026D handicap at the start of the year and a couple of good seconds after. Not disgraced at Ffos Las on return and entitled to come on for that. ",
+          "betting": [
+            "5/1",
+            "9/2",
+            "5/1",
+            "9/2",
+            "4/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 24,
+          "horse_lifetime_stats_win_count": 5,
+          "horse_lifetime_stats_place_count": 10,
+          "horse": {
+            "id": 1046131,
+            "name": "Shot Boii",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 711,
+            "name": "H Cobden"
+          },
+          "trainer": {
+            "id": 169,
+            "name": "D Pipe",
+            "created_at": "2024-11-27T16:00:00.517Z",
+            "updated_at": "2024-11-27T16:00:00.519Z"
+          },
+          "owner": {
+            "id": 742,
+            "name": "South West Rail Solutions Limited"
+          }
+        },
+        {
+          "id": 195346542,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "10-4",
+          "headgear": [],
+          "official_rating": 86,
+          "jockey_claim": null,
+          "ride_description": "Rear mid-division, hampered slightly by faller 5th, in rear next, plugged on past beaten rivals from 2 out, never involved",
+          "commentary": "Only win came at Ffos Las over hurdles. Appears to have lost his form, however, eleventh of 13 in handicap chase (7/1) at Ffos Las (23.8f, good to soft) 17 days ago.",
+          "betting": [
+            "14/1",
+            "16/1",
+            "14/1",
+            "16/1",
+            "14/1",
+            "16/1",
+            "18/1",
+            "20/1",
+            "22/1",
+            "22/1",
+            "25/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 20,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1057397,
+            "name": "Puddlesinthepark",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 1485,
+            "name": "Tony Cromwell \u0026 Partner"
+          }
+        },
+        {
+          "id": 195346547,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "10-2",
+          "headgear": [],
+          "official_rating": 83,
+          "jockey_claim": 7.0,
+          "ride_description": "Mid-division, not fluent 6th, pushed along after 4 out, well held 2 out",
+          "commentary": "Hurdles winner who ran well back in this sphere when third at Huntingdon last month. Remains with potential over fences. ",
+          "betting": [
+            "11/1",
+            "10/1",
+            "10/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 15,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 2,
+          "horse": {
+            "id": 1078098,
+            "name": "Unspeakable",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 30109,
+            "name": "Ellis Collier"
+          },
+          "trainer": {
+            "id": 25397,
+            "name": "Christian Williams",
+            "created_at": "2024-11-27T16:00:01.824Z",
+            "updated_at": "2024-11-27T16:00:01.826Z"
+          },
+          "owner": {
+            "id": 1486,
+            "name": "Mr C R P Williams"
+          }
+        },
+        {
+          "id": 195346532,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-11",
+          "headgear": [
+            "Visor"
+          ],
+          "official_rating": 107,
+          "jockey_claim": 5.0,
+          "ride_description": "NonRunner",
+          "commentary": "Benefited from pace collapse when scoring at Wetherby (3m, heavy) a year ago and almost followed up at Newcastle next time. Very little to shout about thereafter, including on return/debut for this yard at Bangor last month when tight in the betting. Change of headgear. Also engaged 2.45 Wetherby.",
+          "betting": [],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [
+            "FIRST_TIME_VISOR"
+          ],
+          "horse_lifetime_stats_run_count": 21,
+          "horse_lifetime_stats_win_count": 5,
+          "horse_lifetime_stats_place_count": 9,
+          "horse": {
+            "id": 1043773,
+            "name": "East Street",
+            "age": 8,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 10917,
+            "name": "Mr Alex Chadwick"
+          },
+          "trainer": {
+            "id": 24161,
+            "name": "James Owen",
+            "created_at": "2024-11-27T16:00:12.857Z",
+            "updated_at": "2024-11-27T16:00:12.859Z"
+          },
+          "owner": {
+            "id": 960,
+            "name": "Kevin Boothby And John Lynk"
+          }
+        },
+        {
+          "id": 195346536,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "12-1",
+          "headgear": [],
+          "official_rating": 111,
+          "jockey_claim": null,
+          "ride_description": "Front mid-division, lost position after 5 out, tailed off and pulled up before 3 out",
+          "commentary": "Point/hurdles winner and best effort over fences last season when second of 4 in handicap chase at Fontwell (26f, heavy), though went with little fluency. Off 8 months.",
+          "betting": [
+            "11/2",
+            "6/1",
+            "11/2",
+            "5/1",
+            "9/2",
+            "5/1"
+          ],
+          "race_id": 831598,
+          "casualty": "PulledUp",
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 11,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1046497,
+            "name": "Hermes Du Gouet",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 702,
+            "name": "Charlie Deutsch"
+          },
+          "trainer": {
+            "id": 117,
+            "name": "Miss V Williams",
+            "created_at": "2024-11-27T16:00:01.100Z",
+            "updated_at": "2024-11-27T16:00:01.102Z"
+          },
+          "owner": {
+            "id": 346,
+            "name": "My Racing Manager Friends"
+          }
+        },
+        {
+          "id": 195346546,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "12-0",
+          "headgear": [],
+          "official_rating": 110,
+          "jockey_claim": null,
+          "ride_description": "Handy, fell 5th",
+          "commentary": "Placed sole run between the flags and bettered previous hurdles form by some way when third in a 14-runner novice at Ffos Las in May. Backed that up switched to fences when second at Bangor on handicap bow/return last month and entitled to progress. ",
+          "betting": [
+            "5/1",
+            "11/2",
+            "5/1",
+            "11/2",
+            "5/1",
+            "11/2",
+            "6/1"
+          ],
+          "race_id": 831598,
+          "casualty": "Fell",
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 7,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1094258,
+            "name": "Ultra Beat",
+            "age": 6,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 714,
+            "name": "David Bass"
+          },
+          "trainer": {
+            "id": 130,
+            "name": "H D Daly",
+            "created_at": "2024-11-27T16:00:02.247Z",
+            "updated_at": "2024-11-27T16:00:02.249Z"
+          },
+          "owner": {
+            "id": 1488,
+            "name": "Hot Air Dreamers"
+          }
+        },
+        {
+          "id": 195346530,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-8",
+          "headgear": [
+            "Cheek pieces",
+            "Tongue strap"
+          ],
+          "official_rating": 104,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "Fair winning handicap chaser who bounced back to his best in first-time cheekpieces when second at Taunton (26.3f, good) in April. Respectable return at Chepstow and should be in the mix again. ",
+          "betting": [],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [
+            "HOT_TRAINER"
+          ],
+          "horse_lifetime_stats_run_count": 16,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 7,
+          "horse": {
+            "id": 1038730,
+            "name": "Airtothethrone",
+            "age": 8,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 740,
+            "name": "Alan Johns"
+          },
+          "trainer": {
+            "id": 152,
+            "name": "Tim Vaughan",
+            "created_at": "2024-11-27T16:00:02.037Z",
+            "updated_at": "2024-11-27T16:00:02.039Z"
+          },
+          "owner": {
+            "id": 1489,
+            "name": "Mrs C S Wilson"
+          }
+        },
+        {
+          "id": 195346541,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "10-6",
+          "headgear": [
+            "Cheek pieces",
+            "Tongue strap"
+          ],
+          "official_rating": 88,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "Unreliable sort but this course scorer resumed winning ways in 7-runner handicap chase at Fontwell (26f, good to soft) 19 days ago. Needs to back it up now up 6 lb. ",
+          "betting": [],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 45,
+          "horse_lifetime_stats_win_count": 5,
+          "horse_lifetime_stats_place_count": 13,
+          "horse": {
+            "id": 949695,
+            "name": "Pawpaw",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 30641,
+            "name": "Caoilin Quinn"
+          },
+          "trainer": {
+            "id": 28747,
+            "name": "D J Jeffreys",
+            "created_at": "2024-11-27T16:00:09.270Z",
+            "updated_at": "2024-11-27T16:00:09.275Z"
+          },
+          "owner": {
+            "id": 1490,
+            "name": "Mr Thomas Gaden"
+          }
+        },
+        {
+          "id": 195346540,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [
+            "Cheek pieces"
+          ],
+          "official_rating": 98,
+          "jockey_claim": 7.0,
+          "ride_description": "Towards rear, mistake 6th, fell 4 out",
+          "commentary": "Denied only by an unexposed type in 15-runner handicap hurdle at Exeter (21.6f, heavy) on final outing for Evan Williams in December. Not seen to best effect both starts for this yard in the summer but record over fences not as good. ",
+          "betting": [
+            "50/1",
+            "40/1",
+            "33/1",
+            "28/1",
+            "33/1",
+            "28/1",
+            "33/1",
+            "25/1",
+            "28/1",
+            "33/1"
+          ],
+          "race_id": 831598,
+          "casualty": "Fell",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 26,
+          "horse_lifetime_stats_win_count": 3,
+          "horse_lifetime_stats_place_count": 8,
+          "horse": {
+            "id": 891431,
+            "name": "No Rematch",
+            "age": 10,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 27749,
+            "name": "Miss Imogen Mathias"
+          },
+          "trainer": {
+            "id": 2154,
+            "name": "J L Flint",
+            "created_at": "2024-11-27T16:00:17.239Z",
+            "updated_at": "2024-11-27T16:00:17.241Z"
+          },
+          "owner": {
+            "id": 1491,
+            "name": "Miss I Mathias"
+          }
+        },
+        {
+          "id": 195346534,
+          "finish_position": 7,
+          "ride_status": "RUNNER",
+          "handicap": "10-12",
+          "headgear": [
+            "Cheek pieces",
+            "Tongue strap"
+          ],
+          "official_rating": 94,
+          "jockey_claim": 7.0,
+          "ride_description": "Tracked leaders, lost ground 6th, well behind in rear from 10th",
+          "commentary": "On a losing run over hurdles but came close to getting off the mark at the first attempt over fences over C\u0026D 2 weeks ago, closing all the way to the line. Headgear goes on now and he needs considering. ",
+          "betting": [
+            "5/1",
+            "11/2",
+            "11/2",
+            "13/2",
+            "6/1",
+            "13/2",
+            "6/1",
+            "13/2",
+            "6/1",
+            "13/2",
+            "6/1"
+          ],
+          "race_id": 831598,
+          "casualty": null,
+          "insights": [
+            "FIRST_TIME_CHEEK_PIECES"
+          ],
+          "horse_lifetime_stats_run_count": 25,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1056521,
+            "name": "Faded Fantasy",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 28107,
+            "name": "James Turner"
+          },
+          "trainer": {
+            "id": 25397,
+            "name": "Christian Williams",
+            "created_at": "2024-11-27T16:00:01.824Z",
+            "updated_at": "2024-11-27T16:00:01.826Z"
+          },
+          "owner": {
+            "id": 64,
+            "name": "Sue Howell"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831599,
+      "name": "HCD Ltd Handicap Hurdle",
+      "age": "3YO plus",
+      "race_class": "5",
+      "distance": "2m 3f 147y",
+      "date": "2024-11-27",
+      "time": "14:35",
+      "off_time": "14:36:03",
+      "winning_time": "5m 1.86s",
+      "ride_count": 9,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": true,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346550,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "11-12",
+          "headgear": [],
+          "official_rating": 102,
+          "jockey_claim": 7.0,
+          "ride_description": "Wore red hood to post, prominent behind clear leader, not fluent 4th, closed up before 4 out, led after 3 out, ridden after 2 out and steadily drew away, stayed on well, readily",
+          "commentary": "Winner at Stratford in July. Creditable third of 7 in handicap hurdle at this C\u0026D (good, 3/1) 23 days ago. Has been in good order for a while and another solid showing is on the cards.",
+          "betting": [
+            "11/4",
+            "5/2",
+            "11/4"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 10,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 5,
+          "horse": {
+            "id": 1125572,
+            "name": "Don Rafael",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 12498,
+            "name": "Daire James McConville"
+          },
+          "trainer": {
+            "id": 114,
+            "name": "M Keighley",
+            "created_at": "2024-11-27T16:00:01.868Z",
+            "updated_at": "2024-11-27T16:00:01.870Z"
+          },
+          "owner": {
+            "id": 1492,
+            "name": "The Lucky Seven"
+          }
+        },
+        {
+          "id": 195346563,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-8",
+          "headgear": [
+            "Cheek pieces"
+          ],
+          "official_rating": 97,
+          "jockey_claim": null,
+          "ride_description": "Chased clear leaders, closer before 2 out, pushed along into 2nd home turn, kept on, no impression on winner, well clear of rest",
+          "commentary": "Recorded back-to-back wins here (both at 21.7f) last year and back on the scoresheet with cheekpieces refitted at Worcester (20f) in June. Exploits mixed subsequently but needs respecting at this track after a break.",
+          "betting": [
+            "11/4",
+            "5/2",
+            "11/4",
+            "5/2",
+            "9/4",
+            "5/2"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [
+            "HOT_JOCKEY",
+            "HOT_TRAINER"
+          ],
+          "horse_lifetime_stats_run_count": 27,
+          "horse_lifetime_stats_win_count": 3,
+          "horse_lifetime_stats_place_count": 11,
+          "horse": {
+            "id": 1061054,
+            "name": "Mactavish",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 710,
+            "name": "Stan Sheppard"
+          },
+          "trainer": {
+            "id": 440,
+            "name": "M Sheppard",
+            "created_at": "2024-11-27T16:00:01.112Z",
+            "updated_at": "2024-11-27T16:00:01.114Z"
+          },
+          "owner": {
+            "id": 1493,
+            "name": "Mr Barry Hawkins"
+          }
+        },
+        {
+          "id": 195346560,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "12-0",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 103,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, pushed along 2 out, plugged on to take 3rd run-in, never involved",
+          "commentary": "At the veteran stage and wasn't at her best when last seen 6 months ago. Has left Mitchell Hunt and rejoined former yard, but there's a fair bit to prove.",
+          "betting": [
+            "66/1",
+            "50/1",
+            "40/1"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 31,
+          "horse_lifetime_stats_win_count": 4,
+          "horse_lifetime_stats_place_count": 12,
+          "horse": {
+            "id": 892373,
+            "name": "Just Go For It",
+            "age": 11,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 722,
+            "name": "Sean Houlihan"
+          },
+          "trainer": {
+            "id": 432,
+            "name": "K Bishop",
+            "created_at": "2024-11-27T16:00:37.095Z",
+            "updated_at": "2024-11-27T16:00:37.097Z"
+          },
+          "owner": {
+            "id": 1494,
+            "name": "Mr Steve Atkinson"
+          }
+        },
+        {
+          "id": 195346561,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "11-7",
+          "headgear": [],
+          "official_rating": 96,
+          "jockey_claim": 3.0,
+          "ride_description": "Rear mid-division, pushed along after 3 out, took 4th 2 out, ridden home turn, no progress",
+          "commentary": "Bumper winner in 2022 and came good at the second time of asking over hurdles back from an absence at Uttoxeter in July. Not quite in the same form since.",
+          "betting": [
+            "14/1",
+            "12/1"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 9,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 2,
+          "horse": {
+            "id": 1066210,
+            "name": "Leave Her To Me",
+            "age": 6,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 712,
+            "name": "Nick Slatter"
+          },
+          "trainer": {
+            "id": 168,
+            "name": "D Killahena \u0026 G McPherson",
+            "created_at": "2024-11-27T16:00:06.464Z",
+            "updated_at": "2024-11-27T16:00:06.466Z"
+          },
+          "owner": {
+            "id": 1495,
+            "name": "Lady Godiva Racing Syndicate"
+          }
+        },
+        {
+          "id": 195346548,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "11-12",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 101,
+          "jockey_claim": null,
+          "ride_description": "Led and soon clear, reduced lead 4 out where not fluent, headed after 3 out, ridden 2 out and gradually weakened",
+          "commentary": "Much improved in spring of 2023 with 2m2f handicap wins at Market Rasen and Exeter. Hit the ground running back from 18 months off with an excellent second at Stratford 39 days ago and is worth a chance to resume winning ways.",
+          "betting": [
+            "11/10",
+            "6/5",
+            "6/5",
+            "5/4"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 10,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1044890,
+            "name": "Any Biscuits",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 927,
+            "name": "Paul O'Brien"
+          },
+          "trainer": {
+            "id": 33672,
+            "name": "Harry Derham",
+            "created_at": "2024-11-27T16:00:08.254Z",
+            "updated_at": "2024-11-27T16:00:08.255Z"
+          },
+          "owner": {
+            "id": 1496,
+            "name": "The Oh Crumbs Syndicate"
+          }
+        },
+        {
+          "id": 195346572,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "11-9",
+          "headgear": [],
+          "official_rating": 98,
+          "jockey_claim": 7.0,
+          "ride_description": "Mid-division, ridden 2 out, no response",
+          "commentary": "Back to form from out of the blue when taking advantage of a reduced mark in a Ffos Las handicap chase (3m, soft) in April 2023. Out of sorts when last seen a year ago and others are more persuasive.",
+          "betting": [
+            "50/1",
+            "40/1"
+          ],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 26,
+          "horse_lifetime_stats_win_count": 4,
+          "horse_lifetime_stats_place_count": 6,
+          "horse": {
+            "id": 991642,
+            "name": "To Be Sure",
+            "age": 9,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 30109,
+            "name": "Ellis Collier"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 1497,
+            "name": "T Hywel Jones Racing"
+          }
+        },
+        {
+          "id": 195346562,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-8",
+          "headgear": [],
+          "official_rating": 97,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "Improved to win 10-runner handicap hurdle at Perth (20.2f, soft, 7/4) 63 days ago, forging clear. Left Olly Murphy for £17,000 since and remains feasibly treated.",
+          "betting": [],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 24,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 10,
+          "horse": {
+            "id": 1013203,
+            "name": "Limerick Leader",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 711,
+            "name": "H Cobden"
+          },
+          "trainer": {
+            "id": 6427,
+            "name": "Mrs A M Thorpe",
+            "created_at": "2024-11-27T16:00:02.069Z",
+            "updated_at": "2024-11-27T16:00:02.072Z"
+          },
+          "owner": {
+            "id": 1498,
+            "name": "Team Tristar (uk) Ltd"
+          }
+        },
+        {
+          "id": 195346555,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-13",
+          "headgear": [],
+          "official_rating": 88,
+          "jockey_claim": null,
+          "ride_description": "Always in rear, struggling 3 out, pulled up",
+          "commentary": "Showed fair form at best in 2 hurdle/chase starts in France, but well beaten in a hurdle/chase in Britain when last seen. Off 12 months and hard to fancy.",
+          "betting": [
+            "125/1",
+            "100/1",
+            "125/1",
+            "150/1",
+            "125/1"
+          ],
+          "race_id": 831599,
+          "casualty": "Fell",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 6,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1066753,
+            "name": "Great Threat",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 151,
+            "name": "Evan Williams",
+            "created_at": "2024-11-27T16:00:01.648Z",
+            "updated_at": "2024-11-27T16:00:01.650Z"
+          },
+          "owner": {
+            "id": 1500,
+            "name": "Hush Hush Partnership"
+          }
+        },
+        {
+          "id": 195346552,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "10-2",
+          "headgear": [],
+          "official_rating": 75,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, lost touch after 4 out, pulled up after 2 out",
+          "commentary": "Fair performer on Flat but no real impact over hurdles, including in handicaps. Up against it.",
+          "betting": [
+            "66/1",
+            "50/1"
+          ],
+          "race_id": 831599,
+          "casualty": "PulledUp",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 43,
+          "horse_lifetime_stats_win_count": 5,
+          "horse_lifetime_stats_place_count": 8,
+          "horse": {
+            "id": 949009,
+            "name": "Eagle Court",
+            "age": 7,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 1422,
+            "name": "Harry Reed"
+          },
+          "trainer": {
+            "id": 2355,
+            "name": "M Blake",
+            "created_at": "2024-11-27T16:00:05.951Z",
+            "updated_at": "2024-11-27T16:00:05.953Z"
+          },
+          "owner": {
+            "id": 1501,
+            "name": "Mr Roger Gould"
+          }
+        },
+        {
+          "id": 195346553,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": 92,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, tailed off after 3 out, pulled up",
+          "commentary": "Successful on sole outing in Irish points. Down the field so far over hurdles but now upped in trip for handicap debut, so well worth a market check.",
+          "betting": [
+            "40/1",
+            "33/1"
+          ],
+          "race_id": 831599,
+          "casualty": "PulledUp",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1161388,
+            "name": "Gillespie Road",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 928,
+            "name": "Nick Scholfield"
+          },
+          "trainer": {
+            "id": 25397,
+            "name": "Christian Williams",
+            "created_at": "2024-11-27T16:00:01.824Z",
+            "updated_at": "2024-11-27T16:00:01.826Z"
+          },
+          "owner": {
+            "id": 64,
+            "name": "Sue Howell"
+          }
+        },
+        {
+          "id": 195346558,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-12",
+          "headgear": [
+            "Cheek pieces"
+          ],
+          "official_rating": 102,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "Won a 2m Huntingdon maiden in May and even better form in handicaps this autumn, getting his head back in front at Southwell last month. Not in same form last time but cheekpieces on/up in trip now.",
+          "betting": [],
+          "race_id": 831599,
+          "casualty": null,
+          "insights": [
+            "FIRST_TIME_CHEEK_PIECES",
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 13,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 4,
+          "horse": {
+            "id": 1095951,
+            "name": "Ikigai Star",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 714,
+            "name": "David Bass"
+          },
+          "trainer": {
+            "id": 429,
+            "name": "C E Longsdon",
+            "created_at": "2024-11-27T16:00:03.122Z",
+            "updated_at": "2024-11-27T16:00:03.137Z"
+          },
+          "owner": {
+            "id": 1499,
+            "name": "The Ikigai Partnership"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831600,
+      "name": "Keltruck Scania Mares' Handicap Hurdle",
+      "age": "3YO plus",
+      "race_class": "5",
+      "distance": "2m 53y",
+      "date": "2024-11-27",
+      "time": "15:10",
+      "off_time": "15:10:26",
+      "winning_time": "4m 7.18s",
+      "ride_count": 8,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": true,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346576,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "10-7",
+          "headgear": [],
+          "official_rating": 84,
+          "jockey_claim": null,
+          "ride_description": "Towards rear, headway after 4 out, disputed 3rd 2 out, pushed along in close 2nd home turn, led approaching last, stayed on strongly and cleared away flat",
+          "commentary": "Fair maiden who comes here on the back of a good third of 12 in handicap hurdle at Worcester (16f, good) when last seen in July. Needs considering provided she's fully tuned up. ",
+          "betting": [
+            "4/1",
+            "7/2"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 6,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 4,
+          "horse": {
+            "id": 1140167,
+            "name": "Culligran",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 732,
+            "name": "Adam Wedge"
+          },
+          "trainer": {
+            "id": 1658,
+            "name": "J G M O'Shea",
+            "created_at": "2024-11-27T16:00:15.396Z",
+            "updated_at": "2024-11-27T16:00:15.399Z"
+          },
+          "owner": {
+            "id": 1502,
+            "name": "The Cross Racing Club"
+          }
+        },
+        {
+          "id": 195346589,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-13",
+          "headgear": [],
+          "official_rating": 104,
+          "jockey_claim": 7.0,
+          "ride_description": "Led, pushed along 2 out, ridden and headed home turn, stayed on run-in, no match for winner",
+          "commentary": "Bagged 2m mares' maiden at Bangor in February and failed to meet expectations after 5 months off when fifth of 6 at Stratford last month. Far too free returned to a longer trip when well held at Wincanton (21.4f, good) since so needs to get back on track. ",
+          "betting": [
+            "5/1",
+            "11/2",
+            "5/1",
+            "11/2",
+            "5/1"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 13,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 4,
+          "horse": {
+            "id": 1084687,
+            "name": "Strong Belle",
+            "age": 6,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 28107,
+            "name": "James Turner"
+          },
+          "trainer": {
+            "id": 116,
+            "name": "N A Twiston-Davies",
+            "created_at": "2024-11-27T16:00:00.877Z",
+            "updated_at": "2024-11-27T16:00:00.879Z"
+          },
+          "owner": {
+            "id": 958,
+            "name": "James \u0026 Jean Potter Ltd"
+          }
+        },
+        {
+          "id": 195346575,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "12-0",
+          "headgear": [],
+          "official_rating": 105,
+          "jockey_claim": 5.0,
+          "ride_description": "Wore red hood to post, mid-division, tracked leaders after 3rd, pushed along before 2 out and lost position, gradually faded",
+          "commentary": "Hard to knock her consistency over hurdles and ended a sequence of seconds of rare length (seven) when getting off the mark in 7-runner novice at Uttoxeter (15.8f, soft) back in July. Freshened up since and every chance she can kick on now up and running back in a handicap. ",
+          "betting": [],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 16,
+          "horse_lifetime_stats_win_count": 2,
+          "horse_lifetime_stats_place_count": 11,
+          "horse": {
+            "id": 992330,
+            "name": "Billams Legacy",
+            "age": 9,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 1898,
+            "name": "Tom Broughton"
+          },
+          "trainer": {
+            "id": 127,
+            "name": "F O'Brien",
+            "created_at": "2024-11-27T16:00:09.518Z",
+            "updated_at": "2024-11-27T16:00:09.520Z"
+          },
+          "owner": {
+            "id": 1504,
+            "name": "The Cod And Chips Twice Racing Syndica"
+          }
+        },
+        {
+          "id": 195346583,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "10-6",
+          "headgear": [
+            "Hood"
+          ],
+          "official_rating": 83,
+          "jockey_claim": null,
+          "ride_description": "Always in rear, never going pace",
+          "commentary": "Runner-up completed start in Irish points but little to shout about all 3 outings over hurdles (hooded on latest). Likely to make more impact now tackling low-grade handicaps. ",
+          "betting": [
+            "14/1",
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1",
+            "16/1",
+            "18/1",
+            "20/1",
+            "22/1"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 4,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1162245,
+            "name": "Missy Mole",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 1438,
+            "name": "Lee Edwards"
+          },
+          "trainer": {
+            "id": 169,
+            "name": "D Pipe",
+            "created_at": "2024-11-27T16:00:00.517Z",
+            "updated_at": "2024-11-27T16:00:00.519Z"
+          },
+          "owner": {
+            "id": 1505,
+            "name": "Sue Howell \u0026 Partner"
+          }
+        },
+        {
+          "id": 195346587,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "10-3",
+          "headgear": [],
+          "official_rating": 80,
+          "jockey_claim": null,
+          "ride_description": "Prominent, lost ground after 4th, reminders and struggling 4 out, tailed off",
+          "commentary": "Reached the frame 3 times in bumpers but the form is only modest and she's made little impact over hurdles in a handful of starts, latest after 7 months off at Southwell (15.8f, good) 5 weeks ago. Could have something to offer now handicapping, however. ",
+          "betting": [
+            "12/1",
+            "10/1",
+            "11/1",
+            "12/1"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 8,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 2,
+          "horse": {
+            "id": 1121518,
+            "name": "Simply Belle",
+            "age": 4,
+            "foaled": null,
+            "sex": "f"
+          },
+          "jockey": {
+            "id": 955,
+            "name": "R Patrick"
+          },
+          "trainer": {
+            "id": 445,
+            "name": "David Dennis",
+            "created_at": "2024-11-27T16:00:09.319Z",
+            "updated_at": "2024-11-27T16:00:09.321Z"
+          },
+          "owner": {
+            "id": 1506,
+            "name": "Mr G Saville"
+          }
+        },
+        {
+          "id": 195346577,
+          "finish_position": 7,
+          "ride_status": "RUNNER",
+          "handicap": "11-9",
+          "headgear": [],
+          "official_rating": 100,
+          "jockey_claim": null,
+          "ride_description": "Rear mid-division, closed to dispute 4th 3 out, pushed along and weakened tamely 2 out",
+          "commentary": "Down the field sole start in bumpers and only modest form at best so far over hurdles, always around the same position in mid-division on handicap debut at Wexford (16.7f, good to soft) back in August. Has since left Paul Nolan and she'll need to take a step forward to feature. ",
+          "betting": [
+            "10/1",
+            "9/1",
+            "17/2",
+            "9/1",
+            "10/1",
+            "11/1",
+            "10/1",
+            "11/1",
+            "12/1"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 7,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1129897,
+            "name": "Doyen Magic",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 730,
+            "name": "R P McLernon"
+          },
+          "trainer": {
+            "id": 118,
+            "name": "J \u0026 A O'Neill",
+            "created_at": "2024-11-27T16:00:01.536Z",
+            "updated_at": "2024-11-27T16:00:01.538Z"
+          },
+          "owner": {
+            "id": 1507,
+            "name": "Mrs K Browne \u0026 Partner"
+          }
+        },
+        {
+          "id": 195346579,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "11-1",
+          "headgear": [
+            "Hood"
+          ],
+          "official_rating": 92,
+          "jockey_claim": 3.0,
+          "ride_description": "NonRunner",
+          "commentary": "Fair winner on the Flat and while she has done the majority of her racing over sprint distances, stamina didn't appear to be an issue when sixth in a Ludlow novice (15.8f, good to soft) last month. Backed that up when third at Huntingdon since but more required now handicapping. ",
+          "betting": [],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 18,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1064473,
+            "name": "Granny B",
+            "age": 4,
+            "foaled": null,
+            "sex": "f"
+          },
+          "jockey": {
+            "id": 10774,
+            "name": "Lewis Stones"
+          },
+          "trainer": {
+            "id": 171,
+            "name": "M Mullineaux",
+            "created_at": "2024-11-27T16:00:37.270Z",
+            "updated_at": "2024-11-27T16:00:37.272Z"
+          },
+          "owner": {
+            "id": 1508,
+            "name": "Mr Michael Mullineaux"
+          }
+        },
+        {
+          "id": 195346580,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "12-0",
+          "headgear": [],
+          "official_rating": 105,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, unseated rider 4th",
+          "commentary": "Just modest form at best in 3 bumper outings but promise over hurdles, shaping quite encouragingly after 6 months off when third of 8 in novice at Uttoxeter (15.8f, good to soft) earlier in the month. Remains with potential now handicapping so she's high on the shortlist. ",
+          "betting": [
+            "4/1",
+            "9/2",
+            "4/1",
+            "9/2",
+            "4/1",
+            "9/2"
+          ],
+          "race_id": 831600,
+          "casualty": "UnseatedRider",
+          "insights": [],
+          "horse_lifetime_stats_run_count": 7,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 3,
+          "horse": {
+            "id": 1093629,
+            "name": "Irish Chorus",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 736,
+            "name": "Brendan Powell"
+          },
+          "trainer": {
+            "id": 111,
+            "name": "A King",
+            "created_at": "2024-11-27T16:00:00.527Z",
+            "updated_at": "2024-11-27T16:00:00.529Z"
+          },
+          "owner": {
+            "id": 679,
+            "name": "Mrs E Roberts"
+          }
+        },
+        {
+          "id": 195346586,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "11-13",
+          "headgear": [
+            "Tongue strap"
+          ],
+          "official_rating": 104,
+          "jockey_claim": null,
+          "ride_description": "Mounted in chute and wore red hood to post, handy, pushed along and led home turn, ridden and headed approaching last where not fluent, no extra and lost 2nd run-in",
+          "commentary": "Fairly useful Flat winner at up to 1¼m in France. Refitted with blinkers/tongue tie combination when landing juvenile hurdle at Ludlow (15.8f, soft) in November 2023 and ran to a similar level when third at Newbury the following month. Makes return/handicap hurdle debut with headgear discarded. ",
+          "betting": [
+            "11/1"
+          ],
+          "race_id": 831600,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 20,
+          "horse_lifetime_stats_win_count": 5,
+          "horse_lifetime_stats_place_count": 10,
+          "horse": {
+            "id": 1062618,
+            "name": "Saisissante",
+            "age": 3,
+            "foaled": null,
+            "sex": "f"
+          },
+          "jockey": {
+            "id": 746,
+            "name": "James Davies"
+          },
+          "trainer": {
+            "id": 172,
+            "name": "Noel Williams",
+            "created_at": "2024-11-27T16:00:01.896Z",
+            "updated_at": "2024-11-27T16:00:01.899Z"
+          },
+          "owner": {
+            "id": 1503,
+            "name": "Noel Williams Racing - Saisissante"
+          }
+        }
+      ]
+    },
+    {
+      "id": 831601,
+      "name": "Sigeric Property Open NH Flat Race (GBB Race)",
+      "age": "4YO to 5YO",
+      "race_class": "5",
+      "distance": "2m 53y",
+      "date": "2024-11-27",
+      "time": "15:45",
+      "off_time": "15:51:33",
+      "winning_time": "4m 1.82s",
+      "ride_count": 8,
+      "going": "Good to Soft (Soft in places)",
+      "has_handicap": false,
+      "meeting_id": 108671,
+      "rides": [
+        {
+          "id": 195346594,
+          "finish_position": 1,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Handy, led over 4f out, ridden home turn, stayed on strongly, won going away",
+          "commentary": "€40,000 3-y-o, Sandmason gelding from successful NH family. Made frame completed start in Irish points (Oct 6).",
+          "betting": [
+            "13/2",
+            "6/1",
+            "13/2",
+            "6/1",
+            "13/2",
+            "6/1",
+            "11/2",
+            "5/1",
+            "11/2",
+            "5/1",
+            "9/2",
+            "5/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 1,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1167008,
+            "name": "Destination Dubai",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 714,
+            "name": "David Bass"
+          },
+          "trainer": {
+            "id": 1841,
+            "name": "A Ralph",
+            "created_at": "2024-11-27T16:00:01.423Z",
+            "updated_at": "2024-11-27T16:00:01.424Z"
+          },
+          "owner": {
+            "id": 51,
+            "name": "Mr Bill Hawkins"
+          }
+        },
+        {
+          "id": 195346602,
+          "finish_position": 3,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Led, headed over 4f out, pushed along 2f out, plugged on same pace",
+          "commentary": "Jet Away half-brother to bumper winner Major Robinson. 33/1, hinted at ability on debut at Wincanton last month, just running out of steam late on. Entitled to improve.",
+          "betting": [
+            "12/1",
+            "14/1",
+            "12/1",
+            "14/1",
+            "12/1",
+            "10/1",
+            "12/1",
+            "11/1",
+            "10/1",
+            "11/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 2,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1163778,
+            "name": "My Cullen",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 736,
+            "name": "Brendan Powell"
+          },
+          "trainer": {
+            "id": 6274,
+            "name": "Miss H C Knight",
+            "created_at": "2024-11-27T16:00:09.444Z",
+            "updated_at": "2024-11-27T16:00:09.447Z"
+          },
+          "owner": {
+            "id": 1510,
+            "name": "Up The Wall Racing"
+          }
+        },
+        {
+          "id": 195346603,
+          "finish_position": 5,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Mid-division, pushed along 3f out, no response",
+          "commentary": "Geordieland gelding out of unraced dam out of sister to useful hurdler/smart chaser (stayed 3¼m) Hell's Bay, from family of Champion Chase winners Viking Flagship and Flagship Uberalles.",
+          "betting": [
+            "5/1",
+            "9/2",
+            "4/1",
+            "9/2",
+            "5/1",
+            "11/2",
+            "5/1",
+            "9/2",
+            "5/1",
+            "9/2",
+            "5/1",
+            "9/2",
+            "5/1",
+            "9/2",
+            "5/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [
+            "HOT_JOCKEY",
+            "HOT_TRAINER"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1167030,
+            "name": "Olderfleet",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 710,
+            "name": "Stan Sheppard"
+          },
+          "trainer": {
+            "id": 440,
+            "name": "M Sheppard",
+            "created_at": "2024-11-27T16:00:01.112Z",
+            "updated_at": "2024-11-27T16:00:01.114Z"
+          },
+          "owner": {
+            "id": 1512,
+            "name": "Steven McKay"
+          }
+        },
+        {
+          "id": 195346598,
+          "finish_position": 6,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "In rear, closed up halfway, pushed along in 3rd well over 3f out, soon weakened tamely",
+          "commentary": "From the family of useful hurdler/high-class chaser Black Corton. Fancied in the betting but finished 18 lengths eighth of 11 in maiden bumper at Le Mans a year ago. Hard to weigh up.",
+          "betting": [
+            "11/2",
+            "6/1",
+            "13/2",
+            "7/1",
+            "7/1",
+            "15/2",
+            "7/1",
+            "15/2",
+            "8/1",
+            "9/1",
+            "10/1",
+            "9/1",
+            "10/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 2,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1126335,
+            "name": "Kashmir De Corton",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 711,
+            "name": "H Cobden"
+          },
+          "trainer": {
+            "id": 326,
+            "name": "T R George",
+            "created_at": "2024-11-27T16:00:17.030Z",
+            "updated_at": "2024-11-27T16:00:17.031Z"
+          },
+          "owner": {
+            "id": 1513,
+            "name": "Burkes \u0026 Syders"
+          }
+        },
+        {
+          "id": 195346593,
+          "finish_position": 7,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": 3.0,
+          "ride_description": "Tracked leaders on inner, pushed along and dropped away 5f out, tailed off",
+          "commentary": "Dam placed in bumpers/over hurdles. Last of 5 finishers sole start in point bumpers.",
+          "betting": [
+            "40/1",
+            "33/1",
+            "40/1",
+            "33/1",
+            "40/1",
+            "50/1",
+            "66/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1167028,
+            "name": "Commander Teddy",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 1727,
+            "name": "Shane Quinlan"
+          },
+          "trainer": {
+            "id": 2160,
+            "name": "Katy Price",
+            "created_at": "2024-11-27T16:00:17.516Z",
+            "updated_at": "2024-11-27T16:00:17.518Z"
+          },
+          "owner": {
+            "id": 1514,
+            "name": "Mr L J Williams"
+          }
+        },
+        {
+          "id": 195346591,
+          "finish_position": 0,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "Chased leaders, lost ground quickly and pushed along halfway, soon in rear and pulled up",
+          "commentary": "Dam modest 2m-2¼m hurdle/chase winner. Has undergone breathing operation.",
+          "betting": [
+            "33/1",
+            "28/1",
+            "33/1",
+            "28/1"
+          ],
+          "race_id": 831601,
+          "casualty": "PulledUp",
+          "insights": [
+            "WIND_SURGERY_SINCE_LAST_RUN"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1167026,
+            "name": "Boris Birdbrook",
+            "age": 5,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 733,
+            "name": "James Best"
+          },
+          "trainer": {
+            "id": 432,
+            "name": "K Bishop",
+            "created_at": "2024-11-27T16:00:37.095Z",
+            "updated_at": "2024-11-27T16:00:37.097Z"
+          },
+          "owner": {
+            "id": 1494,
+            "name": "Mr Steve Atkinson"
+          }
+        },
+        {
+          "id": 195346605,
+          "finish_position": 0,
+          "ride_status": "NONRUNNER",
+          "handicap": "10-9",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": null,
+          "ride_description": "NonRunner",
+          "commentary": "Down the field in bumpers 19 months apart.",
+          "betting": [],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [
+            "HOT_JOCKEY"
+          ],
+          "horse_lifetime_stats_run_count": 2,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1098920,
+            "name": "Our Rosie",
+            "age": 5,
+            "foaled": null,
+            "sex": "m"
+          },
+          "jockey": {
+            "id": 702,
+            "name": "Charlie Deutsch"
+          },
+          "trainer": {
+            "id": 171,
+            "name": "M Mullineaux",
+            "created_at": "2024-11-27T16:00:37.270Z",
+            "updated_at": "2024-11-27T16:00:37.272Z"
+          },
+          "owner": {
+            "id": 1515,
+            "name": "Mr L Tomlinson"
+          }
+        },
+        {
+          "id": 195346600,
+          "finish_position": 2,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": 3.0,
+          "ride_description": "Towards rear, headway into 4th 6f out, pressed leaders over 2f out, ridden over 1f out, kept on, always held by winner",
+          "commentary": "€47,000 3-y-o, Seahenge gelding. Dam unraced half-sister to French hurdler/chaser (17f-2¼m winner) Callia d'Oudairies and French hurdle/chase winner (17f-19f winner) Icone d'Oudairies. Plenty to like on paper.",
+          "betting": [
+            "9/4",
+            "11/5",
+            "9/4"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 1,
+          "horse": {
+            "id": 1145487,
+            "name": "Kefir D'oudairies",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 10774,
+            "name": "Lewis Stones"
+          },
+          "trainer": {
+            "id": 25785,
+            "name": "O Murphy",
+            "created_at": "2024-11-27T16:00:00.568Z",
+            "updated_at": "2024-11-27T16:00:00.569Z"
+          },
+          "owner": {
+            "id": 1509,
+            "name": "Mr Aiden Murphy"
+          }
+        },
+        {
+          "id": 195346607,
+          "finish_position": 4,
+          "ride_status": "RUNNER",
+          "handicap": "11-2",
+          "headgear": [],
+          "official_rating": null,
+          "jockey_claim": 3.0,
+          "ride_description": "Chased leaders, went close 2nd over 2f out, weakened 1f out",
+          "commentary": "€20,000 3-y-o, Planteur gelding. Half-brother to 3 winners, including useful hurdler/fairly useful chaser in France Hurkhan and fair French hurdler Artemidor. One to take seriously on debut for in-form yard.",
+          "betting": [
+            "11/4",
+            "3/1",
+            "10/3",
+            "3/1",
+            "10/3",
+            "3/1",
+            "10/3",
+            "3/1",
+            "10/3",
+            "3/1",
+            "10/3",
+            "3/1"
+          ],
+          "race_id": 831601,
+          "casualty": null,
+          "insights": [
+            "HOT_TRAINER"
+          ],
+          "horse_lifetime_stats_run_count": 1,
+          "horse_lifetime_stats_win_count": 0,
+          "horse_lifetime_stats_place_count": 0,
+          "horse": {
+            "id": 1167031,
+            "name": "Sangpoursangamoi",
+            "age": 4,
+            "foaled": null,
+            "sex": "g"
+          },
+          "jockey": {
+            "id": 29330,
+            "name": "Dylan Johnston"
+          },
+          "trainer": {
+            "id": 943,
+            "name": "S Thomas",
+            "created_at": "2024-11-27T16:00:01.711Z",
+            "updated_at": "2024-11-27T16:00:01.713Z"
+          },
+          "owner": {
+            "id": 1511,
+            "name": "Savoy Developments And Mussell-evans"
+          }
+        }
+      ]
+    }
+  ]
+}
